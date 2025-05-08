@@ -26,7 +26,7 @@ body {
     padding: 12px;
     text-decoration: none;
     color: white;
-    border-bottom: 1px solid #6f8c53;
+    border-bottom: 1px solid #404040;
   }
   
   .menu a:hover {
@@ -34,12 +34,12 @@ body {
   }
   
   .content {
-    background-color: aliceblue;
+    background-color: #f2f2f2;
     padding: 20px;
   }
   
   h2 {
-    color: #6f8c53;
+    color: #4d7327;
   }
   
   input[type='text'],
