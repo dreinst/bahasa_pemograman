@@ -1,0 +1,84 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+  }
+  
+  table {
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+  }
+  
+  td {
+    vertical-align: top;
+    padding: 20px;
+  }
+  
+  .menu {
+    background-color: #6f8c53;
+    width: 200px;
+    color: white;
+  }
+  
+  .menu a {
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px solid #6f8c53;
+  }
+  
+  .menu a:hover {
+    background-color: #4d7327;
+  }
+  
+  .content {
+    background-color: aliceblue;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #6f8c53;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type='submit'] {
+    background-color: #4d7327;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type='submit']:hover {
+    background-color: #4d7327;
+  }
+  
+  .header {
+    background-color: #4d7327;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer {
+    background-color: #4d7327;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
